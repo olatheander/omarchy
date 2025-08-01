@@ -6,3 +6,7 @@ yay -S --noconfirm --needed \
   wl-clipboard fastfetch btop \
   man tldr less whois plocate bash-completion \
   alacritty
+
+# Install my custom packages
+yay -S --noconfirm --needed \
+  fish kitty tmux
